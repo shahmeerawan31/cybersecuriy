@@ -1,5 +1,6 @@
 # CYBER SECURITY
 It is the protection of internet software and data from the cyber attack
+The main point in cyber security is that it is the protection of whole network not the protection of of any individual
 * * COMMON TYPES OF CYBER ATTACK
 * MALWARE
 :it is the code with malicious contant that steal the data or destroy some thing on computer 
