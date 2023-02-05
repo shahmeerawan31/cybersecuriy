@@ -18,7 +18,9 @@ The main point in cyber security is that it is the protection of whole network n
 * UN AUTHORIZED DELETION 
 * UN AUTHORIZED ACCESS
 * * CIA
-IT IS THE MAIN HUB OF CYBER SECURITY
+* these are the main objective OF CYBER SECURITY
+the main objective of cyber security is to protect the information from being stolen
+cyber security can be measure by three principle which are given below
 
 * CONFIDENTIALITY
 ONLY THE AUTHORIZED PERSON HAVE ACCESS TO THE DATA 
