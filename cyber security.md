@@ -41,8 +41,9 @@ ONLY THE AUTHORIZED PERSON HAVE ACCESS TO THE DATA
 the best example of confidentiality is that the while doing banking the authorized person have an access to the account num or the password
 
 * INTEGRITY
-THE DATA OR INFORMATION WE stored or  SHARE IS ACCURATE OR NOT 
-we link this with critical case like the nuclear information in this case we cant modify even a single word
+THE DATA OR INFORMATION WE stored or  SHARE IS ACCURATE OR NOT
+E.g
+we know that the word hello can be transfer in 5 packets if the one packet can be change our deleted the whole word  is change the reciever can't get the accurate data  
 * AVAILABILITY
 ONCE COMPUTER CAPTURE THE DATA IS AVAILABLE TO THE USER WHEN ITS NEEDED
 * * StEP TO FIX CRIME 
